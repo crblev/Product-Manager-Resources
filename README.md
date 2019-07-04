@@ -95,7 +95,6 @@ and Resources
 
 * [Small Data: The Tiny Clues that Uncover Huge Trends by Martin Lindstrom](https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250118018/ref=sr_1_1?keywords=Small+Data%3A+The+Tiny+Clues+that+Uncover+Huge+Trends&qid=1562247445&s=books&sr=1-1)
 
-# PM related news sites/content
 
 # Lists of books/podcasts/blogs
 
