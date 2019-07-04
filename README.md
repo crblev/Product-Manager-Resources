@@ -181,5 +181,5 @@ Note: some PM networking sites offer resume review and interviewing practices be
 
 
 ### Changelog
-** v2.0 July 2019 Additions by Chuck Blevins
-**V1.0 June 2019 Danny Ramos
+* v2.0 July 2019 Additions by Chuck Blevins
+* V1.0 June 2019 Danny Ramos
