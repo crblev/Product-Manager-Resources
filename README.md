@@ -31,7 +31,7 @@ and Resources
 
 * [Teresa Torres](https://www.producttalk.org/)
 
-* Producthunt.com
+* [Producthunt.com] (https://www.producthunt.com/)
 
 * [https://firstround.com/review/](https://firstround.com/review/)
 
@@ -171,7 +171,7 @@ Interviewing/Job Search
 
 Note: some PM networking sites offer resume review and interviewing practices between members.
 
-Other relevant resources
+# Other relevant resources
 
 * [http://www.sachinrekhi.com/the-art-of-decision-making-as-a-product-manager](http://www.sachinrekhi.com/the-art-of-decision-making-as-a-product-manager)
 
