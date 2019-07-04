@@ -178,4 +178,8 @@ Note: some PM networking sites offer resume review and interviewing practices be
 
 * [https://hackernoon.com/product-management-skills-no-one-talks-about-5d50debfb815](https://hackernoon.com/product-management-skills-no-one-talks-about-5d50debfb815)
 
-*Prototype list built by Danny Ramos, further building by Chuck Blevins
+
+
+### Changelog
+** v2.0 July 2019 Additions by Chuck Blevins
+**V1.0 June 2019 Danny Ramos
