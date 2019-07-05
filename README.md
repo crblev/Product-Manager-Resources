@@ -6,53 +6,30 @@ and Resources
 # Blogs and PM content
 
 * [Inside Intercom](https://www.intercom.com/blog/category/product-and-design/)
-
 * [ProductCraft](https://productcraft.com/)
-
 * [Stratechery](https://stratechery.com/)
-
 * [Product Bytes](https://www.mironov.com/)
-
 * [Silicon Valley Product Group](https://svpg.com/articles/)
-
 * [The Clever PM](http://www.cleverpm.com/)
-
 * [Product Talk](https://www.producttalk.org/)
-
 * [ProductPlan](https://www.productplan.com/blog/)
-
 * [Mind the Product](https://www.mindtheproduct.com/)
-
 * [InVision Blog](https://www.invisionapp.com/inside-design)
-
+* [Rich Miranov](https://www.mironov.com/)
 * [Jason Fried](https://medium.com/@jasonfried)
-
 * [Ken Norton](https://www.kennorton.com/)
-
 * [Teresa Torres](https://www.producttalk.org/)
-
 * [ProductHunt.com](https://www.producthunt.com/)
-
 * [https://firstround.com/review/](https://firstround.com/review/)
-
 * [https://www.rightrelevance.com/search/articles?query=product%20management](https://www.rightrelevance.com/search/articles?query=product%20management)
-
 * [https://medium.com/pminsider](https://medium.com/pminsider)
-
 * [Roman Richler](https://www.romanpichler.com/blog/)
-
 * [Nir Eyal](https://www.nirandfar.com/best-articles/)
-
 * [http://www.startuplessonslearned.com/](http://www.startuplessonslearned.com/)
-
 * [Hiten Shah](https://hitenism.com/)
-
 * [Product Collective](https://productcollective.com/blog/)
-
 * [Holly Hester-Reilly](https://h2rproductscience.com/category/articles/)
-
 * [Pendo blog](https://www.pendo.io/pendo-blog/)
-
 * [Adam Nash](https://adamnash.blog/)
 
 # Books
