@@ -77,7 +77,7 @@ and Resources
 * [https://techconferences.co/](https://techconferences.co/)
 * [https://www.indiehackers.com/](https://www.indiehackers.com/)
 
-Interviewing/Job Search
+# Interviewing/Job Search
 ## Books
 * [Cracking the PM Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818/ref=sr_1_3?keywords=Cracking+the+PM+Interview&qid=1562247349&s=books&sr=1-3)
 * [Decode and Conquer: Answers to Product Management Interviews](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417/ref=sr_1_1?keywords=Decode+and+Conquer%3A+Answers+to+Product+Management+Interviews&qid=1562088176&s=books&sr=1-1) by Lewis C. Lin
