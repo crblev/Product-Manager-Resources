@@ -70,11 +70,13 @@ and Resources
 * [Product Science Podcast](https://h2rproductscience.com/category/product-science-podcast/)
 
 # SLACK and Networking groups
-* [Mind the product](https://www.mindtheproduct.com/)
-* [Product Manager HQ](https://www.productmanagerhq.com/)
+* [Indiehacker](https://www.indiehackers.com/)
+* [Mind the Product](https://www.mindtheproduct.com/)
 * [Product Collective](https://productcollective.com/)
-* [https://techconferences.co/](https://techconferences.co/)
-* [https://www.indiehackers.com/](https://www.indiehackers.com/)
+* [Product Manager HQ](https://www.productmanagerhq.com/)
+* [Techconferences.co](https://techconferences.co/)
+* [The Product Experience](https://www.mindtheproduct.com/category/the-product-experience/)
+
 
 # Interviewing/Job Search
 ## Books
