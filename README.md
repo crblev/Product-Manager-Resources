@@ -43,10 +43,10 @@ and Resources
 * [The Laws of Simplicit*y](https://www.amazon.com/dp/0262134721/?coliid=I30FYIGDQI5XPI&colid=25A1VUXBTZTOL&psc=0&ref_=lv_ov_lig_dp_it)[ by John Maeda](https://www.amazon.com/dp/0262134721/?coliid=I30FYIGDQI5XPI&colid=25A1VUXBTZTOL&psc=0&ref_=lv_ov_lig_dp_it)
 * [The Design of Everyday Things* ](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?s=books&ie=UTF8&qid=1539171679&sr=1-1&keywords=the+design+of+everyday+things)[by Don Norman](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?s=books&ie=UTF8&qid=1539171679&sr=1-1&keywords=the+design+of+everyday+things)
 * [The Toyota Way: 14 Management Principles from the World’s Greatest Manufacturer* ](https://www.amazon.com/dp/0071392319/?coliid=I2V1325WD637JC&colid=25A1VUXBTZTOL&psc=0&ref_=lv_ov_lig_dp_it)[by Jeffrey Liker](https://www.amazon.com/dp/0071392319/?coliid=I2V1325WD637JC&colid=25A1VUXBTZTOL&psc=0&ref_=lv_ov_lig_dp_it)
-* [The hard thing about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=mp_s_a_1_1?keywords=the+hard+thing+about+hard+things&qid=1561648963&s=gateway&sprefix=the+hard+thing&sr=8-1) by
-* [High output management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) by
-* [The startup way](https://www.amazon.com/gp/aw/d/1101903201/ref=dbs_a_w_dp_1101903201) by Eric Ries
-* [Strategize](https://www.amazon.com/Strategize-Product-Strategy-Roadmap-Practices/dp/0993499201/ref=mp_s_a_1_3?keywords=pichler+strategize&qid=1561649071&s=gateway&sprefix=pichl&sr=8-3) by Roman Pichler
+* [The hard thing about hard things by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=mp_s_a_1_1?keywords=the+hard+thing+about+hard+things&qid=1561648963&s=gateway&sprefix=the+hard+thing&sr=8-1)
+* [High output management by Andrew S. Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+* [The startup way by Eric Ries](https://www.amazon.com/gp/aw/d/1101903201/ref=dbs_a_w_dp_1101903201)
+* [Strategize by Roman Pichler](https://www.amazon.com/Strategize-Product-Strategy-Roadmap-Practices/dp/0993499201/ref=mp_s_a_1_3?keywords=pichler+strategize&qid=1561649071&s=gateway&sprefix=pichl&sr=8-3)
 * [The Inmates are Running the Asylum by Alan Cooper](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140)
 * [Don’t Make Me Think by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?keywords=Don%E2%80%99t+Make+Me+Think&qid=1562247319&s=books&sr=1-1)
 * [Small Data: The Tiny Clues that Uncover Huge Trends by Martin Lindstrom](https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250118018/ref=sr_1_1?keywords=Small+Data%3A+The+Tiny+Clues+that+Uncover+Huge+Trends&qid=1562247445&s=books&sr=1-1)
