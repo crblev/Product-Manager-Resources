@@ -29,6 +29,7 @@ and Resources
 * [Stratechery](https://stratechery.com/)
 * [Teresa Torres](https://www.producttalk.org/)
 * [The Clever PM](http://www.cleverpm.com/)
+* [Signal v. Noise](https://m.signalvnoise.com/)
 
 # Books
 * [The Lean Startup by Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_2?ie=UTF8&qid=1539078735&sr=8-2&keywords=lean+startup+eric+ries) 
@@ -51,6 +52,7 @@ and Resources
 * [Don’t Make Me Think by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?keywords=Don%E2%80%99t+Make+Me+Think&qid=1562247319&s=books&sr=1-1)
 * [Small Data: The Tiny Clues that Uncover Huge Trends by Martin Lindstrom](https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250118018/ref=sr_1_1?keywords=Small+Data%3A+The+Tiny+Clues+that+Uncover+Huge+Trends&qid=1562247445&s=books&sr=1-1)
 * [Shape Up by Ryan Singer of Basecamp](https://basecamp.com/shapeup)
+* [Getting Real by 37Signals](https://basecamp.com/books/getting-real)
 
 # Lists of books/podcasts/blogs
 * [https://startupbooks.io/](https://startupbooks.io/)
