@@ -50,6 +50,7 @@ and Resources
 * [The Inmates are Running the Asylum by Alan Cooper](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140)
 * [Don’t Make Me Think by Steve Krug](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?keywords=Don%E2%80%99t+Make+Me+Think&qid=1562247319&s=books&sr=1-1)
 * [Small Data: The Tiny Clues that Uncover Huge Trends by Martin Lindstrom](https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250118018/ref=sr_1_1?keywords=Small+Data%3A+The+Tiny+Clues+that+Uncover+Huge+Trends&qid=1562247445&s=books&sr=1-1)
+* [Shape Up by Ryan Singer of Basecamp](https://basecamp.com/shapeup)
 
 # Lists of books/podcasts/blogs
 * [https://startupbooks.io/](https://startupbooks.io/)
