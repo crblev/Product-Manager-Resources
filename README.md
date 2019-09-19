@@ -102,7 +102,8 @@ Note: some PM networking sites offer resume review and interviewing practices be
 * [http://www.sachinrekhi.com/the-art-of-decision-making-as-a-product-manager](http://www.sachinrekhi.com/the-art-of-decision-making-as-a-product-manager)
 * [https://medium.com/startup-grind/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc#.gxkhk1rgp](https://medium.com/startup-grind/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc#.gxkhk1rgp)
 * [https://hackernoon.com/product-management-skills-no-one-talks-about-5d50debfb815](https://hackernoon.com/product-management-skills-no-one-talks-about-5d50debfb815)
-* [Pitch Deck Examples](https://pitchdeckexamples.com/)
+* [Pitchdeckexamples.com](https://pitchdeckexamples.com/)
+* [Pitch Deck Examples via Airtable](https://airtable.com/universe/expHzpGe2PKOJcsJ6/startup-pitch-decks?explore=true)
 
 
 
