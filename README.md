@@ -104,7 +104,7 @@ Note: some PM networking sites offer resume review and interviewing practices be
 * [https://hackernoon.com/product-management-skills-no-one-talks-about-5d50debfb815](https://hackernoon.com/product-management-skills-no-one-talks-about-5d50debfb815)
 * [Pitchdeckexamples.com](https://pitchdeckexamples.com/)
 * [Pitch Deck Examples via Airtable](https://airtable.com/universe/expHzpGe2PKOJcsJ6/startup-pitch-decks?explore=true)
-
+* [List of product and design people via Airtable](https://airtable.com/universe/expcpzWcVOVLfWXSc/the-ultimate-base-of-product-and-design-resources?explore=true)
 
 
 ### Changelog
