@@ -58,16 +58,6 @@ and Resources
 * [The Oz Principle by Craig Hickman](https://www.amazon.com/Oz-Principle-Individual-Organizational-Accountability-ebook/dp/B0012M2IX2)
 * [Rocket Surgery Made Easy by Steve Krug](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself-ebook/dp/B002UXRGNO/ref=sr_1_1?crid=2M884W75T079Z&keywords=rocket+surgery+made+easy&qid=1571363542&s=digital-text&sprefix=rocket+surgery%2Cdigital-text%2C135&sr=1-1)
 
-# Lists of books/podcasts/blogs
-* [https://startupbooks.io/](https://startupbooks.io/)
-* [https://medium.com/@noah_weiss/50-articles-and-books-that-will-make-you-a-great-product-manager-aad5babee2f7](https://medium.com/@noah_weiss/50-articles-and-books-that-will-make-you-a-great-product-manager-aad5babee2f7)
-* [https://www.productplan.com/blogs-for-product-managers](https://www.productplan.com/blogs-for-product-managers)
-* [https://www.kennorton.com/essays/books-for-product-managers.html](https://www.kennorton.com/essays/books-for-product-managers.html)
-* [https://postmake.io/books](https://postmake.io/books)
-* [https://github.com/tron1991/open-product-management](https://github.com/tron1991/open-product-management)
-* [https://medium.com/the-pm-library](https://medium.com/the-pm-library)
-* [https://www.joecotellese.com/learn-product-management-with-books/](https://www.joecotellese.com/learn-product-management-with-books/)
-
 
 # Podcasts
 * [This is Product Management](https://www.thisisproductmanagement.com/)
@@ -88,6 +78,16 @@ and Resources
 * [Neilsen Norman Group on YouTube](https://www.youtube.com/user/NNgroup)
 * [Simon Sinek on YouTube](https://www.youtube.com/user/SimonSinek)
 
+# Lists of books/podcasts/blogs
+* [https://startupbooks.io/](https://startupbooks.io/)
+* [https://medium.com/@noah_weiss/50-articles-and-books-that-will-make-you-a-great-product-manager-aad5babee2f7](https://medium.com/@noah_weiss/50-articles-and-books-that-will-make-you-a-great-product-manager-aad5babee2f7)
+* [https://www.productplan.com/blogs-for-product-managers](https://www.productplan.com/blogs-for-product-managers)
+* [https://www.kennorton.com/essays/books-for-product-managers.html](https://www.kennorton.com/essays/books-for-product-managers.html)
+* [https://postmake.io/books](https://postmake.io/books)
+* [https://github.com/tron1991/open-product-management](https://github.com/tron1991/open-product-management)
+* [https://medium.com/the-pm-library](https://medium.com/the-pm-library)
+* [https://www.joecotellese.com/learn-product-management-with-books/](https://www.joecotellese.com/learn-product-management-with-books/)
+
 # SLACK and Networking groups
 * [Indiehacker](https://www.indiehackers.com/)
 * [Mind the Product](https://www.mindtheproduct.com/)
@@ -95,7 +95,6 @@ and Resources
 * [Product Manager HQ](https://www.productmanagerhq.com/)
 * [Techconferences.co](https://techconferences.co/)
 * [The Product Experience](https://www.mindtheproduct.com/category/the-product-experience/)
-
 
 # Interviewing/Job Search
 ## Books
