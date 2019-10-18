@@ -30,6 +30,7 @@ and Resources
 * [Teresa Torres](https://www.producttalk.org/)
 * [The Clever PM](http://www.cleverpm.com/)
 * [Signal v. Noise](https://m.signalvnoise.com/)
+* [Agile 12 principles) (https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 
 # Books
 * [The Lean Startup by Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_2?ie=UTF8&qid=1539078735&sr=8-2&keywords=lean+startup+eric+ries) 
@@ -53,6 +54,7 @@ and Resources
 * [Small Data: The Tiny Clues that Uncover Huge Trends by Martin Lindstrom](https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250118018/ref=sr_1_1?keywords=Small+Data%3A+The+Tiny+Clues+that+Uncover+Huge+Trends&qid=1562247445&s=books&sr=1-1)
 * [Shape Up by Ryan Singer of Basecamp](https://basecamp.com/shapeup)
 * [Getting Real by 37Signals](https://basecamp.com/books/getting-real)
+* [The Oz Principle] (https://www.amazon.com/Oz-Principle-Individual-Organizational-Accountability-ebook/dp/B0012M2IX2)
 
 # Lists of books/podcasts/blogs
 * [https://startupbooks.io/](https://startupbooks.io/)
@@ -63,6 +65,7 @@ and Resources
 * [https://github.com/tron1991/open-product-management](https://github.com/tron1991/open-product-management)
 * [https://medium.com/the-pm-library](https://medium.com/the-pm-library)
 * [https://www.joecotellese.com/learn-product-management-with-books/](https://www.joecotellese.com/learn-product-management-with-books/)
+
 
 # Podcasts
 * [This is Product Management](https://www.thisisproductmanagement.com/)
@@ -105,6 +108,11 @@ Note: some PM networking sites offer resume review and interviewing practices be
 * [Pitchdeckexamples.com](https://pitchdeckexamples.com/)
 * [Pitch Deck Examples via Airtable](https://airtable.com/universe/expHzpGe2PKOJcsJ6/startup-pitch-decks?explore=true)
 * [List of product and design people via Airtable](https://airtable.com/universe/expcpzWcVOVLfWXSc/the-ultimate-base-of-product-and-design-resources?explore=true)
+
+# Videos
+* [Output vs Outcome & Impact] (https://vimeo.com/206617354)
+* [Teresa Torres on YouTube] (https://www.youtube.com/results?search_query=teresa+torres)
+* [Steve Blank on YouTube] (https://www.youtube.com/results?search_query=steve+blank)
 
 
 ### Changelog
