@@ -30,7 +30,7 @@ and Resources
 * [Teresa Torres](https://www.producttalk.org/)
 * [The Clever PM](http://www.cleverpm.com/)
 * [Signal v. Noise](https://m.signalvnoise.com/)
-* [Agile 12 principles] (https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
+* [Agile 12 principles](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 
 # Books
 * [The Lean Startup by Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_2?ie=UTF8&qid=1539078735&sr=8-2&keywords=lean+startup+eric+ries) 
@@ -110,9 +110,9 @@ Note: some PM networking sites offer resume review and interviewing practices be
 * [List of product and design people via Airtable](https://airtable.com/universe/expcpzWcVOVLfWXSc/the-ultimate-base-of-product-and-design-resources?explore=true)
 
 # Videos
-* [Output vs Outcome & Impact] (https://vimeo.com/206617354)
-* [Teresa Torres on YouTube] (https://www.youtube.com/results?search_query=teresa+torres)
-* [Steve Blank on YouTube] (https://www.youtube.com/results?search_query=steve+blank)
+* [Output vs Outcome & Impact](https://vimeo.com/206617354)
+* [Teresa Torres on YouTube](https://www.youtube.com/results?search_query=teresa+torres)
+* [Steve Blank on YouTube](https://www.youtube.com/results?search_query=steve+blank)
 
 
 ### Changelog
