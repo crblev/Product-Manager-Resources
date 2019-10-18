@@ -54,7 +54,8 @@ and Resources
 * [Small Data: The Tiny Clues that Uncover Huge Trends by Martin Lindstrom](https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250118018/ref=sr_1_1?keywords=Small+Data%3A+The+Tiny+Clues+that+Uncover+Huge+Trends&qid=1562247445&s=books&sr=1-1)
 * [Shape Up by Ryan Singer of Basecamp](https://basecamp.com/shapeup)
 * [Getting Real by 37Signals](https://basecamp.com/books/getting-real)
-* [The Oz Principle](https://www.amazon.com/Oz-Principle-Individual-Organizational-Accountability-ebook/dp/B0012M2IX2)
+* [The Oz Principle by Craig Hickman](https://www.amazon.com/Oz-Principle-Individual-Organizational-Accountability-ebook/dp/B0012M2IX2)
+* [Rocket Surger Made Easy by Steve Krug](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself-ebook/dp/B002UXRGNO/ref=sr_1_1?crid=2M884W75T079Z&keywords=rocket+surgery+made+easy&qid=1571363542&s=digital-text&sprefix=rocket+surgery%2Cdigital-text%2C135&sr=1-1)
 
 # Lists of books/podcasts/blogs
 * [https://startupbooks.io/](https://startupbooks.io/)
@@ -115,6 +116,7 @@ Note: some PM networking sites offer resume review and interviewing practices be
 * [Steve Blank on YouTube](https://www.youtube.com/results?search_query=steve+blank)
 * [Steve Krug on YouTube](https://www.youtube.com/results?search_query=steve+krug)
 * [Alan Cooper on YouTube](https://www.youtube.com/results?search_query=alan+cooper)
+* [37 Signals on YouTube](https://www.youtube.com/results?search_query=37+signals)
 
 
 ### Changelog
