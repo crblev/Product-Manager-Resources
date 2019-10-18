@@ -76,6 +76,17 @@ and Resources
 * [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)
 * [Product Science Podcast](https://h2rproductscience.com/category/product-science-podcast/)
 
+# Videos
+* [Output vs Outcome & Impact](https://vimeo.com/206617354)
+* [Teresa Torres on YouTube](https://www.youtube.com/results?search_query=teresa+torres)
+* [Dan Olsen on YouTube](https://www.youtube.com/channel/UChx1ibI5TI7bBva0Z21azrw)
+* [Steve Blank on YouTube](https://www.youtube.com/results?search_query=steve+blank)
+* [Steve Krug on YouTube](https://www.youtube.com/results?search_query=steve+krug)
+* [Alan Cooper on YouTube](https://www.youtube.com/results?search_query=alan+cooper)
+* [37 Signals on YouTube](https://www.youtube.com/results?search_query=37+signals)
+* [Neilsen Norman Group on YouTube](https://www.youtube.com/user/NNgroup)
+* [Simon Sinek on YouTube](https://www.youtube.com/user/SimonSinek)
+
 # SLACK and Networking groups
 * [Indiehacker](https://www.indiehackers.com/)
 * [Mind the Product](https://www.mindtheproduct.com/)
@@ -110,19 +121,9 @@ Note: some PM networking sites offer resume review and interviewing practices be
 * [Pitch Deck Examples via Airtable](https://airtable.com/universe/expHzpGe2PKOJcsJ6/startup-pitch-decks?explore=true)
 * [List of product and design people via Airtable](https://airtable.com/universe/expcpzWcVOVLfWXSc/the-ultimate-base-of-product-and-design-resources?explore=true)
 
-# Videos
-* [Output vs Outcome & Impact](https://vimeo.com/206617354)
-* [Teresa Torres on YouTube](https://www.youtube.com/results?search_query=teresa+torres)
-* [Dan Olsen on YouTube](https://www.youtube.com/channel/UChx1ibI5TI7bBva0Z21azrw)
-* [Steve Blank on YouTube](https://www.youtube.com/results?search_query=steve+blank)
-* [Steve Krug on YouTube](https://www.youtube.com/results?search_query=steve+krug)
-* [Alan Cooper on YouTube](https://www.youtube.com/results?search_query=alan+cooper)
-* [37 Signals on YouTube](https://www.youtube.com/results?search_query=37+signals)
-* [Neilsen Norman Group on YouTube](https://www.youtube.com/user/NNgroup)
-* [Simon Sinek on YouTube](https://www.youtube.com/user/SimonSinek)
 
 
 ### Changelog
-* v2.1 October 2019 Additions by Chuck Blevins
-* v2.0 July 2019 Additions by Chuck Blevins
-* V1.0 June 2019 Danny Ramos
+* v2.1 Adds video section - October 2019 Additions by Chuck Blevins
+* v2.0 expanded lists - July 2019 by Chuck Blevins
+* V1.0 Original - June 2019 Danny Ramos
