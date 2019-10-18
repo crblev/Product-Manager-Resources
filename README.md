@@ -31,6 +31,7 @@ and Resources
 * [The Clever PM](http://www.cleverpm.com/)
 * [Signal v. Noise](https://m.signalvnoise.com/)
 * [Agile 12 principles](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
+* [Method sans Madness (UX)](http://www.methodsansmadness.com/)
 
 # Books
 * [The Lean Startup by Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_2?ie=UTF8&qid=1539078735&sr=8-2&keywords=lean+startup+eric+ries) 
