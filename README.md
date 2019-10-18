@@ -30,7 +30,7 @@ and Resources
 * [Teresa Torres](https://www.producttalk.org/)
 * [The Clever PM](http://www.cleverpm.com/)
 * [Signal v. Noise](https://m.signalvnoise.com/)
-* [Agile 12 principles) (https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
+* [Agile 12 principles] (https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 
 # Books
 * [The Lean Startup by Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_2?ie=UTF8&qid=1539078735&sr=8-2&keywords=lean+startup+eric+ries) 
@@ -54,7 +54,7 @@ and Resources
 * [Small Data: The Tiny Clues that Uncover Huge Trends by Martin Lindstrom](https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250118018/ref=sr_1_1?keywords=Small+Data%3A+The+Tiny+Clues+that+Uncover+Huge+Trends&qid=1562247445&s=books&sr=1-1)
 * [Shape Up by Ryan Singer of Basecamp](https://basecamp.com/shapeup)
 * [Getting Real by 37Signals](https://basecamp.com/books/getting-real)
-* [The Oz Principle] (https://www.amazon.com/Oz-Principle-Individual-Organizational-Accountability-ebook/dp/B0012M2IX2)
+* [The Oz Principle](https://www.amazon.com/Oz-Principle-Individual-Organizational-Accountability-ebook/dp/B0012M2IX2)
 
 # Lists of books/podcasts/blogs
 * [https://startupbooks.io/](https://startupbooks.io/)
