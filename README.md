@@ -113,10 +113,13 @@ Note: some PM networking sites offer resume review and interviewing practices be
 # Videos
 * [Output vs Outcome & Impact](https://vimeo.com/206617354)
 * [Teresa Torres on YouTube](https://www.youtube.com/results?search_query=teresa+torres)
+* [Dan Olsen on YouTube](https://www.youtube.com/channel/UChx1ibI5TI7bBva0Z21azrw)
 * [Steve Blank on YouTube](https://www.youtube.com/results?search_query=steve+blank)
 * [Steve Krug on YouTube](https://www.youtube.com/results?search_query=steve+krug)
 * [Alan Cooper on YouTube](https://www.youtube.com/results?search_query=alan+cooper)
 * [37 Signals on YouTube](https://www.youtube.com/results?search_query=37+signals)
+* [Neilsen Norman Group on YouTube](https://www.youtube.com/user/NNgroup)
+* [Simon Sinek on YouTube](https://www.youtube.com/user/SimonSinek)
 
 
 ### Changelog
