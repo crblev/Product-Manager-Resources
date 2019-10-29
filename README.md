@@ -120,7 +120,8 @@ Note: some PM networking sites offer resume review and interviewing practices be
 * [Pitchdeckexamples.com](https://pitchdeckexamples.com/)
 * [Pitch Deck Examples via Airtable](https://airtable.com/universe/expHzpGe2PKOJcsJ6/startup-pitch-decks?explore=true)
 * [List of product and design people via Airtable](https://airtable.com/universe/expcpzWcVOVLfWXSc/the-ultimate-base-of-product-and-design-resources?explore=true)
-
+* [CB Insights Startup Failure Post-Mortems](https://www.cbinsights.com/research/startup-failure-post-mortem/)
+* [Crunchbase Startups that failed in 2019](https://www.crunchbase.com/hub/startups-that-failed-in-2019#section-leaderboard)
 
 
 ### Changelog
