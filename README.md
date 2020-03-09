@@ -62,6 +62,7 @@ and Resources
 * [Rocket Surgery Made Easy by Steve Krug](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself-ebook/dp/B002UXRGNO/ref=sr_1_1?crid=2M884W75T079Z&keywords=rocket+surgery+made+easy&qid=1571363542&s=digital-text&sprefix=rocket+surgery%2Cdigital-text%2C135&sr=1-1)
 * [Creative Confidence: Unleashing the Creative Potential Within Us All by Tom and David Kelley](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
 * [Swipe to Unlock: The Primer on Technology and Business Strategy by Parth Detroja](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K/)
+* [Escaping the Build Trap: How Effective Product Management Creates Real Value by Melissa Perri]()
 
 
 # Podcasts
