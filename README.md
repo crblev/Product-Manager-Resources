@@ -7,6 +7,7 @@ and Resources
 * [Aha! blog](https://blog.aha.io/)
 * [Adam Nash](https://adamnash.blog/)
 * [First Round Review](https://firstround.com/review/)
+* [Hackernoon PM articles](https://hackernoon.com/tagged/product-management)
 * [Hiten Shah](https://hitenism.com/)
 * [Holly Hester-Reilly](https://h2rproductscience.com/category/articles/)
 * [Inside Intercom](https://www.intercom.com/blog/category/product-and-design/)
