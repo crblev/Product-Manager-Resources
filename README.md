@@ -35,9 +35,11 @@ and Resources
 * [Method sans Madness (UX)](http://www.methodsansmadness.com/)
 
 # Books
-* [The Lean Startup by Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_2?ie=UTF8&qid=1539078735&sr=8-2&keywords=lean+startup+eric+ries) 
+* [The Lean Startup by Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_2?ie=UTF8&qid=1539078735&sr=8-2&keywords=lean+startup+eric+ries)
+* [The Lean Product Playbook by Dan Olsen](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/)
 * [Getting Realby 37signals](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812/ref=sr_1_3?ie=UTF8&qid=1539078767&sr=8-3&keywords=37+signals)
 * [The Innovator’s Dilemma by Clayton Christensen](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780/ref=sr_1_1?ie=UTF8&qid=1539078810&sr=8-1&keywords=the+innovator%27s+dilemma)
+* [The Innovator's Solution by Clayton Christensen](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1422196577)
 * [Good Strategy/Bad Strategy by Richard Rumelt](https://www.amazon.com/dp/1781256179/?coliid=IDMFI82XOBUS1&colid=25A1VUXBTZTOL&psc=0&ref_=lv_ov_lig_dp_it)
 * [The Art of Product Management by Rich Mironov](https://www.amazon.com/dp/1439216061/?coliid=I3DHRHT1C9KQIB&colid=25A1VUXBTZTOL&psc=0&ref_=lv_ov_lig_dp_it)
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
@@ -58,6 +60,8 @@ and Resources
 * [Getting Real by 37Signals](https://basecamp.com/books/getting-real)
 * [The Oz Principle by Craig Hickman](https://www.amazon.com/Oz-Principle-Individual-Organizational-Accountability-ebook/dp/B0012M2IX2)
 * [Rocket Surgery Made Easy by Steve Krug](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself-ebook/dp/B002UXRGNO/ref=sr_1_1?crid=2M884W75T079Z&keywords=rocket+surgery+made+easy&qid=1571363542&s=digital-text&sprefix=rocket+surgery%2Cdigital-text%2C135&sr=1-1)
+* [Creative Confidence: Unleashing the Creative Potential Within Us All by Tom and David Kelley](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
+* [Swipe to Unlock: The Primer on Technology and Business Strategy by Parth Detroja](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K/)
 
 
 # Podcasts
@@ -127,6 +131,7 @@ Note: some PM networking sites offer resume review and interviewing practices be
 
 
 ### Changelog
+* v2.2 includes new books and webbpages - March 2020
 * v2.1 Adds video section - October 2019 Additions by Chuck Blevins
 * v2.0 expanded lists - July 2019 by Chuck Blevins
 * V1.0 Original - June 2019 Danny Ramos
