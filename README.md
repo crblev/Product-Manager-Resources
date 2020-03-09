@@ -128,6 +128,7 @@ Note: some PM networking sites offer resume review and interviewing practices be
 * [List of product and design people via Airtable](https://airtable.com/universe/expcpzWcVOVLfWXSc/the-ultimate-base-of-product-and-design-resources?explore=true)
 * [CB Insights Startup Failure Post-Mortems](https://www.cbinsights.com/research/startup-failure-post-mortem/)
 * [Crunchbase Startups that failed in 2019](https://www.crunchbase.com/hub/startups-that-failed-in-2019#section-leaderboard)
+* [Value proposition examples](https://www.wordstream.com/blog/ws/2016/04/27/value-proposition-examples)
 
 
 ### Changelog
