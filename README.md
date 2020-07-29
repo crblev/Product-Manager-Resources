@@ -62,7 +62,8 @@ and Resources
 * [Rocket Surgery Made Easy by Steve Krug](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself-ebook/dp/B002UXRGNO/ref=sr_1_1?crid=2M884W75T079Z&keywords=rocket+surgery+made+easy&qid=1571363542&s=digital-text&sprefix=rocket+surgery%2Cdigital-text%2C135&sr=1-1)
 * [Creative Confidence: Unleashing the Creative Potential Within Us All by Tom and David Kelley](https://www.amazon.com/Creative-Confidence-Unleashing-Potential-Within/dp/038534936X)
 * [Swipe to Unlock: The Primer on Technology and Business Strategy by Parth Detroja](https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy-ebook/dp/B0756MTX6K/)
-* [Escaping the Build Trap: How Effective Product Management Creates Real Value by Melissa Perri]()
+* [Escaping the Build Trap: How Effective Product Management Creates Real Value by Melissa Perri](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X)
+* [Measure What Matters by John Doerr](https://bookshop.org/books/measure-what-matters-how-google-bono-and-the-gates-foundation-rock-the-world-with-okrs/9780525536222)
 
 
 # Podcasts
@@ -93,6 +94,7 @@ and Resources
 * [https://github.com/tron1991/open-product-management](https://github.com/tron1991/open-product-management)
 * [https://medium.com/the-pm-library](https://medium.com/the-pm-library)
 * [https://www.joecotellese.com/learn-product-management-with-books/](https://www.joecotellese.com/learn-product-management-with-books/)
+* [Culture is the Behavior You Reward and Punish @medium](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
 
 # SLACK and Networking groups
 * [Indiehacker](https://www.indiehackers.com/)
