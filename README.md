@@ -118,7 +118,7 @@ and Resources
 * [https://www.freecodecamp.org/news/how-to-break-into-product-management-d354944308c0/](https://www.freecodecamp.org/news/how-to-break-into-product-management-d354944308c0/)
 * [https://medium.com/@mishmosh/zero-to-one-in-product-management-54d182a2df6f](https://medium.com/@mishmosh/zero-to-one-in-product-management-54d182a2df6f)
 * [https://library.gv.com/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company-326f1a4ae53b](https://library.gv.com/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company-326f1a4ae53b)
-* [https://medium.com/swlh/how-to-evaluate-a-product-management-job-15c6d1c441c8](How to Evaluate a Product Management Job by Jasper Currry)
+* [https://medium.com/swlh/how-to-evaluate-a-product-management-job-15c6d1c441c8](https://medium.com/swlh/how-to-evaluate-a-product-management-job-15c6d1c441c8y)
 
 Note: some PM networking sites offer resume review and interviewing practices between members.
 
